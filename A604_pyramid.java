@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A04_pyramid {
+public class A604_pyramid {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Geben Sie die Höhe der Pyramide ein : ");
